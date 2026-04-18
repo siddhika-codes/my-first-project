@@ -1,0 +1,1 @@
+# This project shows goals and abt intro, as it is my first github trial project.
