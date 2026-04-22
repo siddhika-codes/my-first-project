@@ -1,0 +1,2 @@
+I study git clone,git commit,git status,git add, git commit in DAY - 1.
+I study push command in DAY -2.
